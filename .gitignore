@@ -1,3 +1,4 @@
 investor_decks/
 pre_processed_tests/
 .env
+data/
